@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mohamed Ashraf 👋
 
-<!--
-**Hamo639/Hamo639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End React Developer
 
-Here are some ideas to get you started:
+I build modern, responsive web applications using React,
+TypeScript, and modern frontend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+React
+TypeScript
+JavaScript
+HTML
+CSS
+MUI
+Chakra UI
+Redux Toolkit
+RTK Query
+Supabase
+Strapi
+Git & GitHub
+
+## 💻 Featured Projects
+
+### Avira Sport
+...
