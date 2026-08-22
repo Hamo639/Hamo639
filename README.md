@@ -76,21 +76,6 @@ React · TypeScript · Material UI · Redux Toolkit · RTK Query · Strapi
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Hamo639&show_icons=true&hide_border=true&theme=transparent"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamo639&layout=compact&hide_border=true&theme=transparent"
-    height="165"
-  />
-</p>
-
----
-
 ## Connect
 
 <p align="left">
