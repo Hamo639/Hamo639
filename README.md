@@ -1,98 +1,104 @@
-# Hi, I'm Mohamed Ashraf 👋
+# Mohamed Ashraf
 
 ### Front-End React Developer
 
-I'm a Computer Science graduate and Front-End Developer focused on building modern, responsive, and user-friendly web applications.
-
-I work mainly with React, TypeScript, JavaScript, and modern frontend technologies, with experience integrating APIs and backend services.
+I build modern, responsive, and scalable web applications with a strong focus on clean UI, reusable components, and maintainable code.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="45" />
-  <img src="https://skillicons.dev/icons?i=typescript" width="45" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
-  <img src="https://skillicons.dev/icons?i=html" width="45" />
-  <img src="https://skillicons.dev/icons?i=css" width="45" />
-  <img src="https://skillicons.dev/icons?i=vite" width="45" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="Vite" />
 </p>
 
-### UI & Styling
+### UI & State Management
 
-<p>
-  <img src="https://skillicons.dev/icons?i=materialui" width="45" />
-  <img src="https://skillicons.dev/icons?i=chakraui" width="45" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=materialui" height="45" alt="Material UI" />
+  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="Redux Toolkit" />
 </p>
 
-### State Management
+### Backend Services
 
-<p>
-  <img src="https://skillicons.dev/icons?i=redux" width="45" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase" width="45" />
-  <img src="https://skillicons.dev/icons?i=strapi" width="45" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase" />
+  <img src="https://skillicons.dev/icons?i=strapi" height="45" alt="Strapi" />
 </p>
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="45" />
-  <img src="https://skillicons.dev/icons?i=github" width="45" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="45" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" />
 </p>
 
 ---
 
-## 💻 Featured Project
+## Featured Project
 
-### 🏆 Avira Sport
+### Avira Sport
 
-A modern sports e-commerce web application built with React and TypeScript.
+A modern sports e-commerce platform built with React and TypeScript.
 
-**Tech Stack**
+**Highlights**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="35" />
-  <img src="https://skillicons.dev/icons?i=typescript" width="35" />
-  <img src="https://skillicons.dev/icons?i=materialui" width="35" />
-  <img src="https://skillicons.dev/icons?i=redux" width="35" />
-  <img src="https://skillicons.dev/icons?i=strapi" width="35" />
+- Responsive e-commerce interface
+- Product browsing and filtering
+- Global state management
+- API integration
+- CMS integration
+- Reusable and scalable UI components
+
+**Built With**
+
+React · TypeScript · Material UI · Redux Toolkit · RTK Query · Strapi
+
+---
+
+## What I Focus On
+
+- Building responsive and accessible interfaces
+- Writing clean and maintainable React code
+- Reusable component architecture
+- State management
+- API integration
+- Modern UI development
+- Performance and user experience
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Hamo639&show_icons=true&hide_border=true&theme=transparent"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamo639&layout=compact&hide_border=true&theme=transparent"
+    height="165"
+  />
 </p>
 
-🔗 [View Repository](https://github.com/Hamo639/avira-sport)
-
 ---
 
-## 📚 Currently Improving
+## Connect
 
-- Advanced React
-- TypeScript
-- Frontend Architecture
-- API Integration
-- Supabase
-- Backend Fundamentals
-
----
-
-## 📫 Connect With Me
-
-<p>
+<p align="left">
   <a href="https://github.com/Hamo639">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
-  </a>
-  <a href="mailto:hamoashraf6699@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 </p>
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+### Thanks for visiting my profile 👋
