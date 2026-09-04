@@ -16,6 +16,10 @@ Building scalable SaaS applications and modern web experiences using React, Next
   <img src="https://img.shields.io/badge/GitHub-Hamo639-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/in/mohamed-ashraf-5a4698426">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Ashraf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 ---
@@ -27,91 +31,91 @@ I'm a Front-End Developer specialized in building modern web applications using 
 I focus on creating scalable, responsive, and maintainable interfaces with clean architecture, reusable components, and modern frontend practices.
 
 I have experience building:
+
 - SaaS dashboards
 - Management systems
 - E-commerce applications
-- Data-driven applications
 - API-integrated platforms
+- Data-driven applications
 
-My goal is to build products that combine great user experience with solid technical foundations.
+My goal is to build products that combine excellent user experience with strong technical foundations.
 
 ---
 
 ## 🌐 Portfolio
 
-Check out my complete portfolio:
+🚀 Check out my complete portfolio:
 
-🚀 https://mohamed-ashraf-portfolio-ten.vercel.app
+https://mohamed-ashraf-portfolio-ten.vercel.app
 
-It includes my projects, skills, experience, and interactive features.
+A modern developer portfolio showcasing my projects, skills, technologies, and experience.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Frontend
+## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="45" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="45" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="45" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="45" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
+<img src="https://skillicons.dev/icons?i=react" height="45" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="45" />
+<img src="https://skillicons.dev/icons?i=typescript" height="45" />
+<img src="https://skillicons.dev/icons?i=javascript" height="45" />
+<img src="https://skillicons.dev/icons?i=html" height="45" />
+<img src="https://skillicons.dev/icons?i=css" height="45" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="45" />
 </p>
 
-### UI & State Management
+## UI & State Management
 
 <p>
-  <img src="https://skillicons.dev/icons?i=materialui" height="45" />
-  <img src="https://skillicons.dev/icons?i=redux" height="45" />
+<img src="https://skillicons.dev/icons?i=materialui" height="45" />
+<img src="https://skillicons.dev/icons?i=redux" height="45" />
 </p>
 
-### Backend Services & CMS
+## Backend Services & CMS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase" height="45" />
-  <img src="https://skillicons.dev/icons?i=strapi" height="45" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" />
+<img src="https://skillicons.dev/icons?i=supabase" height="45" />
+<img src="https://skillicons.dev/icons?i=strapi" height="45" />
+<img src="https://skillicons.dev/icons?i=postgres" height="45" />
 </p>
 
-### Development Tools
+## Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="45" />
+<img src="https://skillicons.dev/icons?i=git" height="45" />
+<img src="https://skillicons.dev/icons?i=github" height="45" />
+<img src="https://skillicons.dev/icons?i=vscode" height="45" />
+<img src="https://skillicons.dev/icons?i=vercel" height="45" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏆 Mohamed Ashraf Portfolio
+## 🌐 Mohamed Ashraf Portfolio
 
 A modern developer portfolio built with Next.js featuring:
 
 - Interactive portfolio assistant
-- VS Code inspired command palette
+- VS Code-inspired command palette
 - SEO optimization
 - Open Graph integration
 - Responsive animations
 - Modern UI architecture
 
-Built With:
+### Built With
 
-Next.js • TypeScript • Tailwind CSS • Framer Motion
-
+Next.js • TypeScript • Tailwind CSS • Framer Motion • Vercel
 
 ---
 
 ## 🏫 Teacher Management System
 
-A SaaS platform for managing students, classes, attendance, payments and educational workflows.
+A SaaS platform for managing students, classes, attendance, payments, and educational workflows.
 
-Features:
+### Features
 
 - Student management
 - Attendance tracking
@@ -120,29 +124,27 @@ Features:
 - Authentication
 - Database integration
 
-Built With:
+### Built With
 
-React • TypeScript • Supabase • PostgreSQL
-
+React • TypeScript • Supabase • PostgreSQL • Chakra UI
 
 ---
 
 ## 🏥 Clinic Management System
 
-A management platform for handling clinic operations.
+A management platform designed to handle clinic operations.
 
-Features:
+### Features
 
 - Patient management
-- Appointments
+- Appointments management
 - Dashboard system
 - Authentication
 - Data management
 
-Built With:
+### Built With
 
-React • TypeScript • Supabase
-
+React • TypeScript • Supabase • PostgreSQL
 
 ---
 
@@ -150,7 +152,7 @@ React • TypeScript • Supabase
 
 A modern sports e-commerce web application built with React and TypeScript.
 
-Features:
+### Features
 
 - Product browsing
 - Filtering
@@ -159,14 +161,13 @@ Features:
 - API integration
 - CMS integration
 
-Built With:
+### Built With
 
 React • TypeScript • Redux Toolkit • RTK Query • Strapi
 
-
 ---
 
-## 🎯 What I Focus On
+# 🎯 What I Focus On
 
 ```text
 Frontend Development
